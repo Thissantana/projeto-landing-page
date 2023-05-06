@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+    height: 100px;
+    border-bottom: 2px solid;
+}
+
+nav {
+    display: flex;
+}
+
+nav {
+    background-color: aqua;
+}
+
+.navegacao {
+    display: flex;
+    height: 95px;
+    width: 200px;
+    align-items: center;    
+    border: 3px solid;
+    color: white;
+    background-color: lightcoral;
+}
+
+.pai {
+    background-color: lightblue;
+    display: flex;
+}
